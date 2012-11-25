@@ -1,0 +1,15 @@
+I:\projects\C_Sharp\GameEngine\GameEngineTests\obj\Debug\ResolveAssemblyReference.cache
+I:\projects\C_Sharp\GameEngine\GameEngineTests\bin\Debug\GameEngineTests.dll
+I:\projects\C_Sharp\GameEngine\GameEngineTests\bin\Debug\GameEngineTests.pdb
+I:\projects\C_Sharp\GameEngine\GameEngineTests\bin\Debug\GameEngine.exe
+I:\projects\C_Sharp\GameEngine\GameEngineTests\bin\Debug\OpenTK.Compatibility.dll
+I:\projects\C_Sharp\GameEngine\GameEngineTests\bin\Debug\OpenTK.dll
+I:\projects\C_Sharp\GameEngine\GameEngineTests\bin\Debug\OpenTK.GLControl.dll
+I:\projects\C_Sharp\GameEngine\GameEngineTests\bin\Debug\GameEngine.pdb
+I:\projects\C_Sharp\GameEngine\GameEngineTests\bin\Debug\OpenTK.xml
+I:\projects\C_Sharp\GameEngine\GameEngineTests\bin\Debug\OpenTK.Compatibility.xml
+I:\projects\C_Sharp\GameEngine\GameEngineTests\bin\Debug\OpenTK.GLControl.xml
+I:\projects\C_Sharp\GameEngine\GameEngineTests\bin\Debug\GameEngine_Accessor.exe
+I:\projects\C_Sharp\GameEngine\GameEngineTests\bin\Debug\GameEngine_Accessor.pdb
+I:\projects\C_Sharp\GameEngine\GameEngineTests\obj\Debug\GameEngineTests.dll
+I:\projects\C_Sharp\GameEngine\GameEngineTests\obj\Debug\GameEngineTests.pdb

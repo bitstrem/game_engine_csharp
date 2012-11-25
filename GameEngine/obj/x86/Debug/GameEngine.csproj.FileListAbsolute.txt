@@ -1,0 +1,15 @@
+I:\projects\C_Sharp\GameEngine\GameEngine\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\projects\C_Sharp\GameEngine\GameEngine\obj\x86\Debug\GameEngine.Properties.Resources.resources
+I:\projects\C_Sharp\GameEngine\GameEngine\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\projects\C_Sharp\GameEngine\GameEngine\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\projects\C_Sharp\GameEngine\GameEngine\bin\Debug\GameEngine.exe
+I:\projects\C_Sharp\GameEngine\GameEngine\bin\Debug\GameEngine.pdb
+I:\projects\C_Sharp\GameEngine\GameEngine\obj\x86\Debug\GameEngine.exe
+I:\projects\C_Sharp\GameEngine\GameEngine\obj\x86\Debug\GameEngine.pdb
+I:\projects\C_Sharp\GameEngine\GameEngine\bin\Debug\OpenTK.Compatibility.dll
+I:\projects\C_Sharp\GameEngine\GameEngine\bin\Debug\OpenTK.dll
+I:\projects\C_Sharp\GameEngine\GameEngine\bin\Debug\OpenTK.GLControl.dll
+I:\projects\C_Sharp\GameEngine\GameEngine\bin\Debug\OpenTK.xml
+I:\projects\C_Sharp\GameEngine\GameEngine\bin\Debug\OpenTK.Compatibility.xml
+I:\projects\C_Sharp\GameEngine\GameEngine\bin\Debug\OpenTK.GLControl.xml
+I:\projects\C_Sharp\GameEngine\GameEngine\obj\x86\Debug\GameEngine.Form1.resources
